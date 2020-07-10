@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelerikWpf.Test", "TelerikWpf.Test\TelerikWpf.Test.csproj", "{F7558301-3639-45B8-BA05-BF4D23414D2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7558301-3639-45B8-BA05-BF4D23414D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7558301-3639-45B8-BA05-BF4D23414D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7558301-3639-45B8-BA05-BF4D23414D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7558301-3639-45B8-BA05-BF4D23414D2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3C431D8-13ED-4647-8084-F74C61463567}
+	EndGlobalSection
+EndGlobal
